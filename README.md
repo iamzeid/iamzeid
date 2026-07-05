@@ -1,41 +1,79 @@
-# Hi, I'm Abdelrahman Zeid! 👋
+# Hi, I'm Abd El Rahman Zeid 👋
 
-I'm a passionate Full Stack Web Developer based in Giza, Egypt. My journey in the world of programming began with a curiosity-driven exploration and has evolved into a professional pursuit.
+**AI Engineer** focused on building production-ready AI applications.
 
-## 🔭 What I'm Into
+I specialize in Retrieval-Augmented Generation (RAG), AI agents, vector search, and LLM-powered systems with an emphasis on reliability, observability, and practical deployment.
 
-I'm deeply interested in all things related to web development and enjoy working on projects that challenge me to learn and grow. I find the process of transforming ideas into functional and elegant applications incredibly satisfying.
+---
 
-## 🌱 Currently Learning
+## 🚀 What I Build
 
-I'm constantly expanding my skillset. Presently, I'm diving deep into the world of **React.js** and **GraphQL**, excited to create more dynamic and interactive user experiences.
+- 🤖 RAG systems for enterprise knowledge retrieval
+- 🧠 Multi-agent AI workflows
+- 📚 Vector search applications
+- ⚡ FastAPI backends for AI services
+- 🏠 Local/on-premise LLM deployments
+- 🔍 Semantic search & recommendation systems
 
-## 👯 I'm Open to Collaboration
+---
 
-I'm always eager to collaborate on projects that align with my interests and expertise. If you're working on something cool and need a hand, feel free to reach out!
+## 🛠 Tech Stack
 
-## 📫 How to Reach Me
+### AI & LLM
+Python • LangChain • LangGraph • LlamaIndex • CrewAI • AutoGen • MCP
 
-🐦 [Twitter](https://twitter.com/iamzeid_)
+### Retrieval
+Qdrant • Pinecone • Weaviate • Milvus • ChromaDB • pgvector • Redis
 
-💼 [LinkedIn](https://www.linkedin.com/in/iamzeid/)
+### Models
+OpenAI • Anthropic • Azure OpenAI • AWS Bedrock • Vertex AI • Hugging Face • Ollama • vLLM
 
-## 🚀 Projects
+### Backend
+FastAPI • Flask • Node.js • Next.js
 
-- **Node.js Social Media Website:** Developed a social media platform using Node.js, Express.js, MongoDB, and JWT for user authentication. Built features for user profiles, post creation, and interaction.
+### DevOps
+Docker • Git
 
-- **Node.js E-commerce Website:** Created an e-commerce platform with Node.js, Express.js, and MySQL. Implemented product listing, shopping cart functionality, secure payment processing, and user authentication using JWT.
+---
 
-- **Node.js Library Website:** Designed a library management system using Node.js, Express.js, and MongoDB. Developed features for book cataloging, user registration, borrowing and returning books, and JWT-based authentication.
+## Featured Projects
 
-- **PHP E-commerce Website:** Built a user-friendly e-commerce interface using PHP, MySQL, HTML, CSS, and JavaScript. Incorporated functionalities for product browsing, shopping cart management, secure checkout, and order tracking.
+### 📄 Resume Screening RAG System
+A semantic search system that indexes PDF resumes into vector databases, allowing recruiters to query candidates using natural language.
 
-**I am adding the links to some of these projects soon!**
+**Tech:** Python, FastAPI, LangChain, LlamaIndex, Qdrant, ChromaDB
 
-## 🛠️ Skills
+---
 
-- Node.js | Express.js | MongoDB | MySQL | HTML | CSS | JavaScript | TypeScript
-- TailwindCSS | Bootstrap | JOI | RESTful APIs | HTTP protocols | CRON Jobs | JWT | Vercel | Docker
-- VSCode | Chrome DevTools | Postman | Socket.io | GraphQL
+### 🎬 AI Movie Recommendation Engine
+Semantic movie recommendations powered by embeddings and vector search, comparing OpenAI embeddings with Sentence Transformers.
 
-Let's connect and create amazing things together!
+**Tech:** Next.js, MongoDB Atlas Vector Search, OpenAI
+
+---
+
+### 📸 Face Recognition Event Organizer
+Computer vision application that automatically groups event photos by person using facial embeddings.
+
+**Tech:** Python, DeepFace, Pillow
+
+---
+
+## Currently Learning
+
+- Advanced agent architectures
+- Production AI infrastructure
+- Model optimization & inference
+- Evaluation and observability for LLM systems
+
+---
+
+## Philosophy
+
+> Build AI systems that are useful, reliable, and production-ready.
+
+---
+
+## Connect
+
+- LinkedIn: [https://www.linkedin.com/in/iamzeid/](https://www.linkedin.com/in/iamzeid/)
